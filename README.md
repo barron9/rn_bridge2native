@@ -9,5 +9,10 @@ react native - native bridge callback from android and ios libraries demonstrati
 
 ![Alt Text](https://j.gifs.com/nxVV67.gif)
 
+clone project
+
+npm install
+
+react-native run-android
 
 Berkin TATLISU
